@@ -18,7 +18,7 @@ const Header = ({ isDark, toggleTheme }) => {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, []);
-  
+
   return (
     <header
       className={`w-full transition-all duration-300 sticky top-0 z-50
@@ -32,7 +32,7 @@ const Header = ({ isDark, toggleTheme }) => {
         <div className="flex items-center px-15 max-lg:px-5 h-20 justify-between ">
           <div className="flex justify-between items-center gap-10">
             <div className="text-indigo-600 text-xl font-bold dark:text-indigo-400">
-              <Link to={"/"}>E-Commerce</Link>
+              <Link to={"/"}>Aura & Co.</Link>
             </div>
             <nav className="flex items-center gap-5 max-md:hidden">
               <NavLink
