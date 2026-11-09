@@ -7,15 +7,14 @@ const Hero = () => {
       <div className="mx-auto max-w-7xl flex flex-1 items-center gap-15 justify-between px-15 max-lg:px-5 w-full max-lg:flex-col">
         <div className="flex flex-col items-start gap-6 overflow-hidden max-lg:py-16">
           <span className="text-indigo-600 uppercase bg-indigo-300/30 py-1 px-2.5 rounded-3xl dark:text-indigo-400">
-            New Collection 2026
+            New Collection 2027
           </span>
-          <h1 className="text-4xl md:text-5xl lg:text-[64px] leading-none font-semibold tracking-tight dark:text-slate-50 md:w-[80%]">
-            Timeless Essentials for Modern Living
+          <h1 className="text-4xl max-md:text-5xl lg:text-[64px] leading-none font-semibold tracking-tight dark:text-slate-50 max-md:w-[80%]">
+            Style That Speaks Before You Do
           </h1>
           <p className="text-gray-500 max-w-lg font-medium text-[18px] dark:text-slate-400">
-            Discover our meticulously crafted pieces designed to bring quiet
-            confidence, structural clarity, and effortless ease to your daily
-            wardrobe and home.
+            From everyday apparel to signature fragrances, discover pieces
+            chosen to complete your look, head to toe.
           </p>
           <Link
             to={"/products"}
@@ -37,11 +36,10 @@ const Hero = () => {
           </div>
           <div className="absolute -bottom-6 -left-10 max-w-60 rounded-2xl p-4 bg-white dark:bg-slate-800 border border-indigo-100 dark:border-slate-700 shadow-xl shadow-indigo-900/10 dark:shadow-none  backdrop-blur-md">
             <h3 className="font-semibold text-slate-900 dark:text-slate-50">
-              Curated Quality
+              Complete Your Look
             </h3>
             <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">
-              100% sustainable organic fibers sourced directly from ethical
-              artisan mills.
+              Apparel, accessories, footwear and perfumes, all in one place.
             </p>
           </div>
         </div>
