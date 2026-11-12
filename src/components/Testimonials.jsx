@@ -59,7 +59,7 @@ const Testimonials = () => {
   return (
     <section className="w-full py-12 bg-indigo-50 overflow-hidden transition-colors duration-300 dark:bg-slate-950 dark:text-slate-50 text-slate-900">
       <div className="max-w-7xl mx-auto container px-15 py-16 max-md:px-6">
-        <div className="flex gap-2 flex-col items-center">
+        <div className="flex gap-2 flex-col items-center mb-12">
           <span className="text-indigo-700 dark:text-indigo-400 uppercase font-medium text-sm tracking-widest">
             Testimonials
           </span>
@@ -71,39 +71,41 @@ const Testimonials = () => {
             conscious consumers.
           </p>
         </div>
-        <div className="overflow-hidden">
-          <div
-            className="flex transition-transform duration-500 gap-8"
-            style={{
-              transform: `translateX(calc(-${index} * ((100% - 4rem) / 3 + 2rem)))`,
-            }}
-          >
-            {testimonials.map((t) => {
-              return (
-                <div
-                  key={t.id}
-                  className="w-full lg:w-[calc((100%-4rem)/3)] shrink-0"
-                >
-                  <TestimonialCard
-                    name={t.name}
-                    role={t.role}
-                    rating={t.rating}
-                    text={t.text}
-                  />
-                </div>
-              );
-            })}
+        <div className="relative">
+          <div className="xl:overflow-hidden overflow-x-auto snap-mandatory snap-x [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
+            <div
+              className="flex gap-8 xl:transition-transform xl:duration-500 xl:[transform:translateX(calc(-1*var(--i)*((100%-4rem)/3+2rem)))]"
+              style={{ "--i": index }}
+            >
+              {testimonials.map((t) => {
+                return (
+                  <div
+                    key={t.id}
+                    className="w-[85%] xl:w-[calc((100%-4rem)/3)] shrink-0 snap-start"
+                  >
+                    <TestimonialCard
+                      name={t.name}
+                      role={t.role}
+                      rating={t.rating}
+                      text={t.text}
+                    />
+                  </div>
+                );
+              })}
+            </div>
           </div>
-          <div>
+          <div className="absolute xl:flex hidden top-[45%]  justify-between w-full left-0 pointer-events-none">
             <button
               onClick={() => setIndex((i) => Math.max(i - 1, 0))}
               disabled={index === 0}
+              className="pointer-events-auto p-4 rounded-full absolute -left-12.5 bg-white dark:bg-slate-900 disabled:opacity-50 disabled:cursor-default cursor-pointer"
             >
               <FaArrowLeft />
             </button>
             <button
               onClick={() => setIndex((i) => Math.min(i + 1, maxIndex))}
               disabled={index >= maxIndex}
+              className="pointer-events-auto p-4 rounded-full absolute -right-12.5 bg-white dark:bg-slate-900 disabled:opacity-50 disabled:cursor-default cursor-pointer"
             >
               <FaArrowRight />
             </button>
