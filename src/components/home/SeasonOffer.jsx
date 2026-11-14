@@ -1,7 +1,7 @@
 const SeasonOffer = () => {
   return (
     <section className="w-full py-12 text-slate-50  px-6 lg:px-12  bg-white dark:bg-slate-900 transition-all duration-300">
-      <div className="max-w-7xl mx-auto container px-15 py-16 max-md:px-6">
+      <div className="max-w-7xl mx-auto container lg:px-15 py-16">
         <div className="flex justify-between items-center max-md:flex-col bg-linear-to-r from-indigo-700 to-indigo-500 p-10 lg:p-16 rounded-xl flex-1">
           <div className="flex items-start gap-2 flex-col ">
             <span className="uppercase text-sm py-1 px-3 bg-indigo-300 font-normal rounded-xl mb-4">

@@ -18,7 +18,10 @@ const Categories = () => {
     fetching();
   }, []);
   return (
-    <section className="w-full bg-white dark:bg-slate-900 dark:text-slate-50 text-slate-900 transition-all duration-300">
+    <section
+      className="w-full bg-white dark:bg-slate-900 dark:text-slate-50 text-slate-900 transition-all duration-300"
+      id="categories"
+    >
       <div className="max-w-7xl mx-auto container px-15 py-16 max-md:px-6">
         <div>
           <span className="block text-indigo-700 dark:text-indigo-400 uppercase font-medium mb-2 text-sm tracking-widest">

@@ -4,6 +4,7 @@ import Header from "./layout/Header";
 import Home from "./pages/Home";
 import { useEffect, useState } from "react";
 import Footer from "./layout/Footer";
+import ScrolltoHash from "./components/logic/ScrolltoHash";
 
 const App = () => {
   const [isDark, setIsDark] = useState(() => {
@@ -24,6 +25,7 @@ const App = () => {
   return (
     <>
       <Header isDark={isDark} toggleTheme={toggleTheme} />
+      <ScrolltoHash />
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
