@@ -3,6 +3,7 @@ import "./App.css";
 import Header from "./layout/Header";
 import Home from "./pages/Home";
 import { useEffect, useState } from "react";
+import Footer from "./layout/Footer";
 
 const App = () => {
   const [isDark, setIsDark] = useState(() => {
@@ -26,6 +27,7 @@ const App = () => {
       <Routes>
         <Route path="/" element={<Home />} />
       </Routes>
+      <Footer />
     </>
   );
 };
