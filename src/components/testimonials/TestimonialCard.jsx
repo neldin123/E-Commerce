@@ -3,7 +3,7 @@ import { IoIosStarOutline } from "react-icons/io";
 const TestimonialCard = ({ name, rating, text, role }) => {
   console.log(name.split(" ")[0][0]);
   return (
-    <div className="p-8 rounded-xl bg-white dark:bg-slate-800 w-full h-full">
+    <div className="p-8 rounded-xl bg-white dark:bg-slate-800 w-full h-full transition-all duration-300">
       <div>
         <div className="flex gap-1">
           {Array.from({ length: rating }).map((_, i) => (

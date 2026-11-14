@@ -98,14 +98,14 @@ const Testimonials = () => {
             <button
               onClick={() => setIndex((i) => Math.max(i - 1, 0))}
               disabled={index === 0}
-              className="pointer-events-auto p-4 rounded-full absolute -left-14 bg-white dark:bg-slate-900 disabled:opacity-50 disabled:cursor-default cursor-pointer"
+              className="pointer-events-auto p-4 rounded-full absolute -left-14 bg-white dark:bg-slate-900 disabled:opacity-50 disabled:cursor-default cursor-pointer transition-all duration-300"
             >
               <FaArrowLeft />
             </button>
             <button
               onClick={() => setIndex((i) => Math.min(i + 1, maxIndex))}
               disabled={index >= maxIndex}
-              className="pointer-events-auto p-4 rounded-full absolute -right-14 bg-white dark:bg-slate-900 disabled:opacity-50 disabled:cursor-default cursor-pointer"
+              className="pointer-events-auto p-4 rounded-full absolute -right-14 bg-white dark:bg-slate-900 disabled:opacity-50 disabled:cursor-default cursor-pointer transition-all duration-300"
             >
               <FaArrowRight />
             </button>
