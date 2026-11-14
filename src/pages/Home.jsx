@@ -1,8 +1,8 @@
-import Categories from "../components/Categories";
-import Hero from "../components/Hero";
-import Latest from "../components/Latest";
-import SeasonOffer from "../components/SeasonOffer";
-import Testimonials from "../components/Testimonials";
+import Categories from "../components/Categories/Categories";
+import Hero from "../components/home/Hero";
+import Latest from "../components/home/Latest";
+import SeasonOffer from "../components/home/SeasonOffer";
+import Testimonials from "../components/testimonials/Testimonials";
 
 const Home = () => {
   return (

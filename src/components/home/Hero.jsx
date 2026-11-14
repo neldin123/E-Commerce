@@ -29,7 +29,7 @@ const Hero = () => {
         <div className="relative max-lg:hidden">
           <div>
             <img
-              src="/Photos/tshirt.jfif"
+              src="/Photos/T-shirt.webp"
               alt="hero"
               className="rounded-xl w-185 h-full object-contain"
             />

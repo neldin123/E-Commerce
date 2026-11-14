@@ -1,4 +1,4 @@
-const Categorie = ({ name, image }) => {
+const CategoryCard = ({ name, image }) => {
   return (
     <div className="relative overflow-hidden w-full aspect-3/4 max-md:aspect-5/4 group rounded-xl">
       <img
@@ -14,4 +14,4 @@ const Categorie = ({ name, image }) => {
   );
 };
 
-export default Categorie;
+export default CategoryCard;

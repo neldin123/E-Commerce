@@ -71,7 +71,7 @@ const Header = ({ isDark, toggleTheme }) => {
           <div className="flex items-center justify-between gap-8">
             <Link className="relative" to={"/cart"} aria-label="cart">
               <MdShoppingBag size={25} className="dark:text-slate-200" />
-              <span className="absolute py-px px-1 rounded-full bg-indigo-600 -top-2 -right-2.5 text-sm flex items-center justify-center text-white">
+              <span className="absolute hidden py-px px-1 rounded-full bg-indigo-600 -top-2 -right-2.5 text-sm flex items-center justify-center text-white">
                 1
               </span>
             </Link>

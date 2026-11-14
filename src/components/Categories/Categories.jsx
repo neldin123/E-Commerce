@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
-import { supabase } from "../supabaseClient";
-import Categorie from "./Categorie";
+import { supabase } from "../../supabaseClient";
+import CategoryCard from "./CategoryCard";
 import { Link } from "react-router-dom";
 import { FaArrowRight } from "react-icons/fa";
 
@@ -35,7 +35,7 @@ const Categories = () => {
         <div className="grid grid-cols-2 lg:grid-cols-4 max-md:grid-cols-1 max-md:gap-10 gap-6">
           {categories.map((categorie) => {
             return (
-              <Categorie
+              <CategoryCard
                 key={categorie.id}
                 name={categorie.name}
                 image={categorie.image_url}

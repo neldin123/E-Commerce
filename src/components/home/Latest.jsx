@@ -1,36 +1,36 @@
-import ProductCard from "./ProductCard";
+import ProductCard from "../products/ProductCard";
 
 const Products = [
   {
     id: 1,
     name: "T-shirt",
     price: 150,
-    image_url: "/Photos/tshirt.jfif",
+    image_url: "/Photos/T-shirt.webp",
     categorie: "apparel",
     latest: false,
   },
   {
     id: 2,
-    name: "T-shirt",
-    price: 150,
-    image_url: "/Photos/tshirt.jfif",
-    categorie: "apparel",
+    name: "Luxury Watch",
+    price: 300,
+    image_url: "/Photos/luxury-watch.avif",
+    categorie: "accessories",
     latest: true,
   },
   {
     id: 3,
-    name: "T-shirt",
-    price: 150,
-    image_url: "/Photos/tshirt.jfif",
-    categorie: "apparel",
+    name: "Nike Air Jordan",
+    price: 50,
+    image_url: "/Photos/nike-air-jordan.jfif",
+    categorie: "footwear",
     latest: true,
   },
   {
     id: 4,
-    name: "T-shirt",
-    price: 150,
-    image_url: "/Photos/tshirt.jfif",
-    categorie: "apparel",
+    name: "Sovag Perfume",
+    price: 200,
+    image_url: "/Photos/perfume.jfif",
+    categorie: "perfumes",
     latest: false,
   },
 ];
