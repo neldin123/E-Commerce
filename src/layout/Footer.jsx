@@ -15,20 +15,52 @@ const Footer = () => {
             </p>
           </div>
           <div>
-            <h3>Shop</h3>
-            <ul>
+            <h3 className="text-[18px] font-semibold tracking-wide mb-6">
+              Shop
+            </h3>
+            <ul className="flex gap-2 items-start flex-col">
               <li>
-                <Link to={"/Products"}>Products</Link>
+                <Link
+                  className="text-slate-500 dark:text-slate-50/40 transition-all duration-300 hover:translate-x-1 block hover:text-slate-600 dark:hover:text-slate-50"
+                  to={"/Products"}
+                >
+                  Products
+                </Link>
               </li>
               <li>
-                <Link to={"/Cart"}>Cart</Link>
+                <Link
+                  className="text-slate-500 dark:text-slate-50/40 transition-all duration-300 hover:translate-x-1 block hover:text-slate-600 dark:hover:text-slate-50"
+                  to={"/Cart"}
+                >
+                  Cart
+                </Link>
               </li>
               <li>
-                <Link to={"/#categories"}>Categories</Link>
+                <Link
+                  className="text-slate-500 dark:text-slate-50/40 transition-all duration-300 hover:translate-x-1 block hover:text-slate-600 dark:hover:text-slate-50"
+                  to={"/#categories"}
+                >
+                  Categories
+                </Link>
               </li>
             </ul>
           </div>
-          <div></div>
+          <div>
+            <h3 className="text-[18px] font-semibold tracking-wide mb-6">
+              Contact Us
+            </h3>
+            <ul className="flex gap-2 items-start flex-col">
+              <li className="text-slate-500 dark:text-slate-50/40 transition-all duration-300 block hover:text-slate-600 dark:hover:text-slate-50">
+                +20123456789
+              </li>
+              <li className="text-slate-500 dark:text-slate-50/40 transition-all duration-300 block hover:text-slate-600 dark:hover:text-slate-50">
+                aura@gmail.com
+              </li>
+              <li className="text-slate-500 dark:text-slate-50/40 transition-all duration-300 block hover:text-slate-600 dark:hover:text-slate-50">
+                Zagazig ,Egypt
+              </li>
+            </ul>
+          </div>
           <div></div>
         </div>
       </div>
