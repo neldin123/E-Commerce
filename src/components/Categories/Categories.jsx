@@ -29,7 +29,10 @@ const Categories = () => {
           </span>
           <div className="flex items-end justify-between mb-12 max-md:flex-col max-md:items-start max-md:gap-6">
             <h2 className="text-4xl leading-10 font-semibold">Categories</h2>
-            <Link className="flex gap-1.5 items-center hover:text-indigo-600 group transition-all duration-300">
+            <Link
+              className="flex gap-1.5 items-center hover:text-indigo-600 group transition-all duration-300"
+              to={"/products"}
+            >
               <span>View All Products</span>
               <FaArrowRight className="group-hover:translate-x-1 transition-all duration-300" />
             </Link>

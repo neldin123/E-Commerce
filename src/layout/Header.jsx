@@ -62,7 +62,7 @@ const Header = ({ isDark, toggleTheme }) => {
               <GoSearch className="absolute top-1/2 -translate-y-1/2 left-2 size-5 text-gray-400 dark:text-slate-400 z-10 pointer-events-none" />
               <input
                 type="text"
-                className="bg-indigo-100/50 dark:bg-slate-800 rounded-xl px-5 py-1 pl-10 caret-indigo-700 dark:caret-indigo-400 focus:outline-indigo-700 dark:focus:outline-indigo-400 text-lg w-100 dark:text-slate-200 dark:placeholder:text-slate-400 dark:border dark:border-slate-700"
+                className="bg-indigo-100/50 dark:bg-slate-800 rounded-xl px-5 py-1 pl-10 caret-indigo-700 dark:caret-indigo-400  outline-0 text-lg w-100 dark:text-slate-200 dark:placeholder:text-slate-400 dark:border dark:border-slate-700"
                 placeholder="Search Products..."
                 name="Search"
               />
