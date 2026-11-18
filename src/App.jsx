@@ -5,6 +5,7 @@ import Home from "./pages/Home";
 import { useEffect, useState } from "react";
 import Footer from "./layout/Footer";
 import ScrolltoHash from "./components/logic/ScrolltoHash";
+import Products from "./pages/Products";
 
 const App = () => {
   const [isDark, setIsDark] = useState(() => {
@@ -28,6 +29,7 @@ const App = () => {
       <ScrolltoHash />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/products" element={<Products />} />
       </Routes>
       <Footer />
     </>

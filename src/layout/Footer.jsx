@@ -80,7 +80,7 @@ const Footer = () => {
             </div>
           </div>
         </div>
-        <div className="flex justify-between pt-12 mt-12 text-[14px] text-slate-500 dark:text-slate-300 capitalize">
+        <div className="flex justify-between pt-12 mt-12 text-[14px] text-slate-500 dark:text-slate-300 capitalize border-t border-white">
           <span>@2026 Aura & co., All Rights reserved.</span>
           <span>
             made with love by{" "}
