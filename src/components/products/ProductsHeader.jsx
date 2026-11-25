@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 const sign = ">";
-const ProductsPadge = () => {
+const ProductsHeader = () => {
   return (
     <div>
       <div>
@@ -19,4 +19,4 @@ const ProductsPadge = () => {
   );
 };
 
-export default ProductsPadge;
+export default ProductsHeader;
