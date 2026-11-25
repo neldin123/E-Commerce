@@ -8,11 +8,15 @@ const ProductsHeader = ({ start, end, total }) => {
         <Link to={"/products"}>Products</Link>
       </div>
       <div>
-        <h1 className="text-[32px] font-semibold leading-10 ">All Products</h1>
-        <div>
+        <h1 className="text-[32px] font-semibold leading-10 tracking-tight">
+          All Products
+        </h1>
+        <div className="flex justify-between items-center mt-1 text-[14px] tracking-wide">
           <p>Explore The Style That Speaks Before You Do</p>
           <p>
-            Showing {start}-{end} of {total} products
+            Showing <span className="font-bold">{start}</span>-
+            <span className="font-bold">{end}</span> of{" "}
+            <span className="font-bold">{total}</span> products
           </p>
         </div>
       </div>
