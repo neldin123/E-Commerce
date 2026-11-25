@@ -14,14 +14,12 @@ const Products = () => {
       : [];
   });
   const numOfPages = Math.ceil(products.length / itemsPerPage);
-  const start = Math.ceil(
-    pageNumber === 1 ? pageNumber : pageNumber * itemsPerPage,
-  );
-  const end = Math.ceil(pageNumber * itemsPerPage);
+  const start = pageNumber * itemsPerPage + 1;
+  const end = Math.ceil((pageNumber + 1) * itemsPerPage);
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        const response = await fetch("/public/products.json");
+        const response = await fetch("/products.json");
         const data = await response.json();
         setProducts(data);
       } catch (error) {
