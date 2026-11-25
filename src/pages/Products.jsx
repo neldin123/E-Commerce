@@ -9,13 +9,13 @@ const itemsPerPage = 12;
 const Products = () => {
   const [pageNumber, setPageNumber] = useState(1);
   const [products, setProducts] = useState(() => {
-    localStorage.getItem("products") === null
+    return localStorage.getItem("products") !== null
       ? JSON.parse(localStorage.getItem("products"))
       : [];
   });
   const numOfPages = Math.ceil(products.length / itemsPerPage);
   const start = Math.ceil(
-    pageNumber === 1 ? pageNumber : pageNumber * itemsPerPage + 1,
+    pageNumber === 1 ? pageNumber : pageNumber * itemsPerPage,
   );
   const end = Math.ceil(pageNumber * itemsPerPage);
   useEffect(() => {
@@ -29,7 +29,7 @@ const Products = () => {
       }
     };
     fetchProducts();
-  }, [products]);
+  }, []);
   return (
     <>
       <main className="w-full bg-white dark:bg-slate-900 dark:text-slate-50 text-slate-900 transition-all duration-300">
