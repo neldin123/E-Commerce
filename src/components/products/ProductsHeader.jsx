@@ -1,11 +1,10 @@
 import { Link } from "react-router-dom";
-const sign = ">";
 const ProductsHeader = () => {
   return (
     <div>
       <div>
         <Link to={"/"}>Home</Link>
-        <span>{sign}</span>
+        <span> &gt; </span>
         <Link to={"/products"}>Products</Link>
       </div>
       <div>
