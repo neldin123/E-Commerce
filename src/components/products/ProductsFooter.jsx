@@ -1,9 +1,13 @@
-import React from 'react'
 
-const ProductsFooter = () => {
+
+const ProductsFooter = ({ pageNumber, handleProductsPages }) => {
   return (
-    <div>ProductsFooter</div>
-  )
-}
+    <>
+      <button onClick={handleProductsPages(1)}>+</button>
+      <span>{pageNumber}</span>
+      <button onClick={handleProductsPages(-1)}>-</button>
+    </>
+  );
+};
 
-export default ProductsFooter
+export default ProductsFooter;

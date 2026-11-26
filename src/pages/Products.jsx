@@ -16,6 +16,7 @@ const Products = () => {
   const numOfPages = Math.ceil(products.length / itemsPerPage);
   const start = (pageNumber - 1) * itemsPerPage + 1;
   const end = Math.min(itemsPerPage * pageNumber, products.length);
+  const currentProducts = products.slice(start - 1, end);
   const [isLoading, setIsLoading] = useState(false);
   useEffect(() => {
     const fetchProducts = async () => {
@@ -35,7 +36,17 @@ const Products = () => {
     fetchProducts();
   }, []);
   console.log(products);
-  const currentProducts = products.slice(start - 1, end);
+  const handleProductsPages = (value) => {
+    setIsLoading(true);
+    if (value === 1) {
+      setPageNumber((prev) => (prev === numOfPages ? prev : prev + 1));
+    } else {
+      setPageNumber((prev) => (prev === numOfPages ? prev : prev - 1));
+    }
+    setTimeout(() => {
+      setIsLoading(false);
+    }, 2000);
+  };
   return (
     <>
       <main className="w-full bg-white dark:bg-slate-900 dark:text-slate-50 text-slate-900 transition-all duration-300">
@@ -51,7 +62,10 @@ const Products = () => {
             isLoading={isLoading}
             currentProducts={currentProducts}
           />
-          <ProductsFooter numOfPages={numOfPages} />
+          <ProductsFooter
+            pageNumber={pageNumber}
+            handleProductsPages={handleProductsPages}
+          />
         </div>
       </main>
     </>

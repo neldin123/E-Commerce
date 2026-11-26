@@ -1,4 +1,4 @@
-const ProductCard = ({ name, price, image_url, category, latest }) => {
+const ProductCard = ({ name, price, image_url, category,  }) => {
   return (
     <div className="p-4 bg-slate-50 dark:bg-slate-800 rounded-xl flex flex-col justify-center group transition-all duration-300">
       <div className="overflow-hidden relative m-auto rounded-xl w-full aspect-3/4 max-md:aspect-square">
@@ -6,11 +6,6 @@ const ProductCard = ({ name, price, image_url, category, latest }) => {
           style={{ backgroundImage: `url(${image_url})` }}
           className={`w-full h-full bg-cover bg-center group-hover:scale-105 transition-all duration-300`}
         ></div>
-        {latest && (
-          <span className="absolute top-3 right-3 bg-slate-50 dark:bg-slate-800 px-3 py-1 rounded-xl">
-            new
-          </span>
-        )}
       </div>
       <h3 className="font-semibold text-[18px] leading-6 mt-4">{name}</h3>
       <p className="text-[14px] text-[#464555] capitalize dark:text-[#c7c4d7] mb-4">
