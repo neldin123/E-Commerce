@@ -1,4 +1,4 @@
-const ProductCard = ({ name, price, image_url, categorie, latest }) => {
+const ProductCard = ({ name, price, image_url, category, latest }) => {
   return (
     <div className="p-4 bg-slate-50 dark:bg-slate-800 rounded-xl flex flex-col justify-center group transition-all duration-300">
       <div className="overflow-hidden relative m-auto rounded-xl w-full aspect-3/4 max-md:aspect-square">
@@ -14,7 +14,7 @@ const ProductCard = ({ name, price, image_url, categorie, latest }) => {
       </div>
       <h3 className="font-semibold text-[18px] leading-6 mt-4">{name}</h3>
       <p className="text-[14px] text-[#464555] capitalize dark:text-[#c7c4d7] mb-4">
-        {categorie}
+        {category}
       </p>
       <div className="flex justify-between items-center pt-4 border-t border-[#e9edff] dark:border-[#122131]">
         <p className="text-indigo-700 dark:text-indigo-400 font-bold text-[20px]">

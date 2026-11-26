@@ -1,8 +1,8 @@
+import ProductsHeader from "../components/products/ProductsHeader";
 import ProductsFilter from "../components/products/ProductsFilter";
 import ProductsShow from "../components/products/ProductShow";
-import ProductsHeader from "../components/products/ProductsHeader";
-import { useEffect, useState } from "react";
 import ProductsFooter from "../components/products/ProductsFooter";
+import { useEffect, useState } from "react";
 
 const itemsPerPage = 12;
 
@@ -23,9 +23,8 @@ const Products = () => {
         setIsLoading(true);
         const response = await fetch("/products.json");
         const data = await response.json();
-        setTimeout(() => {
-          setProducts(data);
-        }, 3000);
+        await new Promise((resolve) => setTimeout(resolve, 3000));
+        setProducts(data);
         localStorage.setItem("products", JSON.stringify(data));
       } catch (error) {
         console.log(error);
@@ -36,13 +35,22 @@ const Products = () => {
     fetchProducts();
   }, []);
   console.log(products);
+  const currentProducts = products.slice(start - 1, end);
   return (
     <>
       <main className="w-full bg-white dark:bg-slate-900 dark:text-slate-50 text-slate-900 transition-all duration-300">
         <div className="max-w-7xl mx-auto container px-15 py-16 max-md:px-6">
-          <ProductsHeader start={start} end={end} total={products.length} />
+          <ProductsHeader
+            start={start}
+            end={end}
+            total={products.length}
+            isLoading={isLoading}
+          />
           <ProductsFilter />
-          <ProductsShow isLoading={isLoading} />
+          <ProductsShow
+            isLoading={isLoading}
+            currentProducts={currentProducts}
+          />
           <ProductsFooter numOfPages={numOfPages} />
         </div>
       </main>
