@@ -1,12 +1,10 @@
-
-
 const ProductsFooter = ({ pageNumber, handleProductsPages }) => {
   return (
-    <>
-      <button onClick={handleProductsPages(1)}>+</button>
+    <div className="flex gap-4">
+      <button onClick={() => handleProductsPages(1)}>+</button>
       <span>{pageNumber}</span>
-      <button onClick={handleProductsPages(-1)}>-</button>
-    </>
+      <button onClick={() => handleProductsPages(-1)}>-</button>
+    </div>
   );
 };
 

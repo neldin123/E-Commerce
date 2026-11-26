@@ -3,15 +3,13 @@ import ProductCard from "./ProductCard";
 import ProductCardSkeleton from "./ProductSkeletonCard";
 
 const ProductsShow = ({ isLoading, currentProducts }) => {
-  {
-    if (isLoading === true) {
-      return Array.from({ length: 12 }).map((_, index) => {
-        <ProductCardSkeleton key={index} />;
-      });
-    } else {
-      return (
-        <div className="grid gap-4 grid-cols-4">
-          {currentProducts.map((product) => (
+  return (
+    <div className="grid gap-4 grid-cols-4">
+      {isLoading
+        ? Array.from({ length: 12 }).map((_, index) => (
+            <ProductCardSkeleton key={index} />
+          ))
+        : currentProducts.map((product) => (
             <ProductCard
               key={product.id}
               name={product.name}
@@ -20,10 +18,8 @@ const ProductsShow = ({ isLoading, currentProducts }) => {
               price={product.price}
             />
           ))}
-        </div>
-      );
-    }
-  }
+    </div>
+  );
 };
 
 export default ProductsShow;

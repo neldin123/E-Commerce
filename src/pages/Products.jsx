@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
 const itemsPerPage = 12;
 
 const Products = () => {
+  const [isLoading, setIsLoading] = useState(true);
   const [pageNumber, setPageNumber] = useState(1);
   const [products, setProducts] = useState(() => {
     return localStorage.getItem("products") !== null
@@ -17,11 +18,9 @@ const Products = () => {
   const start = (pageNumber - 1) * itemsPerPage + 1;
   const end = Math.min(itemsPerPage * pageNumber, products.length);
   const currentProducts = products.slice(start - 1, end);
-  const [isLoading, setIsLoading] = useState(false);
   useEffect(() => {
     const fetchProducts = async () => {
       try {
-        setIsLoading(true);
         const response = await fetch("/products.json");
         const data = await response.json();
         await new Promise((resolve) => setTimeout(resolve, 3000));
@@ -39,9 +38,9 @@ const Products = () => {
   const handleProductsPages = (value) => {
     setIsLoading(true);
     if (value === 1) {
-      setPageNumber((prev) => (prev === numOfPages ? prev : prev + 1));
-    } else {
-      setPageNumber((prev) => (prev === numOfPages ? prev : prev - 1));
+      setPageNumber((prev) => (prev < numOfPages ? prev + 1 : prev));
+    } else if (value === -1) {
+      setPageNumber((prev) => (prev > 1 ? prev - 1 : prev));
     }
     setTimeout(() => {
       setIsLoading(false);
