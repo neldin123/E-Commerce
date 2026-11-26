@@ -4,7 +4,7 @@
     "name": "Compact Travel Umbrella",
     "description": "Lightweight foldable umbrella with a windproof frame and a slim carry case.",
     "price": 320,
-    "image": "https://loremflickr.com/600/800/umbrella,rain?lock=1",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 75,
     "rating": 4.8
@@ -14,7 +14,7 @@
     "name": "Open Toe Comfort Sandals",
     "description": "Cushioned open toe sandals with adjustable straps for all-day summer wear.",
     "price": 550,
-    "image": "https://loremflickr.com/600/800/sandals,shoes?lock=2",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 36,
     "rating": 4.9
@@ -24,7 +24,7 @@
     "name": "Utility Cargo Pants",
     "description": "Relaxed cargo pants with roomy pockets and a durable cotton twill fabric.",
     "price": 1050,
-    "image": "https://loremflickr.com/600/800/pants,clothing?lock=3",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 77,
     "rating": 4.3
@@ -34,7 +34,7 @@
     "name": "Brogue Wingtip Shoes",
     "description": "Classic wingtip brogues with decorative perforations and a leather lining.",
     "price": 2150,
-    "image": "https://loremflickr.com/600/800/shoes,footwear?lock=4",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 90,
     "rating": 4.3
@@ -44,7 +44,7 @@
     "name": "Leather Passport Holder",
     "description": "Slim passport cover with card slots and a pocket for boarding passes.",
     "price": 420,
-    "image": "https://loremflickr.com/600/800/passport,travel?lock=5",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 10,
     "rating": 3.9
@@ -54,7 +54,7 @@
     "name": "Denim Trucker Jacket",
     "description": "Classic mid-wash denim jacket with a structured fit and sturdy metal buttons.",
     "price": 1400,
-    "image": "https://loremflickr.com/600/800/jacket,clothing?lock=6",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 62,
     "rating": 3.8
@@ -64,7 +64,7 @@
     "name": "Zip-Up Fleece Jacket",
     "description": "Cozy fleece jacket with a full zip and a stand-up collar for chilly mornings.",
     "price": 1050,
-    "image": "https://loremflickr.com/600/800/jacket,clothing?lock=7",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 87,
     "rating": 4.8
@@ -74,7 +74,7 @@
     "name": "Weekender Duffel Bag",
     "description": "Spacious duffel with a shoe compartment and a detachable shoulder strap for short trips.",
     "price": 1900,
-    "image": "https://loremflickr.com/600/800/duffel,bag?lock=8",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 41,
     "rating": 4.9
@@ -84,7 +84,7 @@
     "name": "Fleece Lined Winter Boots",
     "description": "Insulated boots with a warm fleece lining and a traction outsole for cold weather.",
     "price": 2200,
-    "image": "https://loremflickr.com/600/800/boots,shoes?lock=9",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 79,
     "rating": 4.4
@@ -94,7 +94,7 @@
     "name": "Slip-On Leather Sneakers",
     "description": "Laceless leather sneakers with elastic gussets for quick and comfortable wear.",
     "price": 1500,
-    "image": "https://loremflickr.com/600/800/sneakers,shoes?lock=10",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 82,
     "rating": 4.3
@@ -104,7 +104,7 @@
     "name": "Lightweight Bomber Jacket",
     "description": "Smooth bomber jacket with ribbed cuffs and a zip front for spring and autumn.",
     "price": 1650,
-    "image": "https://loremflickr.com/600/800/jacket,clothing?lock=11",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 28,
     "rating": 4.6
@@ -114,7 +114,7 @@
     "name": "Suede Desert Boots",
     "description": "Ankle-high suede boots with a crepe sole and a simple two-eyelet design.",
     "price": 2100,
-    "image": "https://loremflickr.com/600/800/boots,shoes?lock=12",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 36,
     "rating": 4.6
@@ -124,7 +124,7 @@
     "name": "Chelsea Boots",
     "description": "Sturdy leather Chelsea boots with elastic side panels and a durable rubber sole.",
     "price": 2400,
-    "image": "https://loremflickr.com/600/800/boots,shoes?lock=13",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 54,
     "rating": 4.0
@@ -134,7 +134,7 @@
     "name": "Waterproof Rain Boots",
     "description": "Flexible waterproof boots with a non-slip sole for wet and muddy days.",
     "price": 950,
-    "image": "https://loremflickr.com/600/800/boots,shoes?lock=14",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 59,
     "rating": 4.1
@@ -144,7 +144,7 @@
     "name": "Quilted Puffer Vest",
     "description": "Lightweight quilted vest that adds warmth without limiting movement.",
     "price": 1150,
-    "image": "https://loremflickr.com/600/800/vest,clothing?lock=15",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 51,
     "rating": 3.9
@@ -154,7 +154,7 @@
     "name": "Retro Running Sneakers",
     "description": "Vintage-inspired runners with a suede and mesh upper and a cushioned midsole.",
     "price": 1550,
-    "image": "https://loremflickr.com/600/800/sneakers,shoes?lock=16",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 35,
     "rating": 4.8
@@ -164,7 +164,7 @@
     "name": "Leather Monk Strap Shoes",
     "description": "Double monk strap shoes in rich leather for a sharp, modern formal look.",
     "price": 2300,
-    "image": "https://loremflickr.com/600/800/shoes,footwear?lock=17",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 12,
     "rating": 4.7
@@ -174,7 +174,7 @@
     "name": "Pear and Freesia Eau de Parfum",
     "description": "A juicy pear opening softened by freesia and a gentle white musk.",
     "price": 2300,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=18",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 88,
     "rating": 3.9
@@ -184,7 +184,7 @@
     "name": "Classic Leather Sandals",
     "description": "Adjustable leather sandals with a molded footbed for summer comfort.",
     "price": 800,
-    "image": "https://loremflickr.com/600/800/sandals,shoes?lock=19",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 89,
     "rating": 4.0
@@ -194,7 +194,7 @@
     "name": "Waffle Knit Henley",
     "description": "Textured waffle knit henley with a three-button placket and a soft hand feel.",
     "price": 600,
-    "image": "https://loremflickr.com/600/800/shirt,clothing?lock=20",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 56,
     "rating": 3.9
@@ -204,7 +204,7 @@
     "name": "Graphic Print Tee",
     "description": "Soft cotton tee with a minimal graphic print on the chest and a regular fit.",
     "price": 400,
-    "image": "https://loremflickr.com/600/800/tshirt,clothing?lock=21",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 54,
     "rating": 4.4
@@ -214,7 +214,7 @@
     "name": "Sandalwood Essence",
     "description": "A creamy sandalwood fragrance with soft spice and a smooth woody dry-down.",
     "price": 3000,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=22",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 78,
     "rating": 4.0
@@ -224,7 +224,7 @@
     "name": "Slim Fit Chinos",
     "description": "Stretch cotton chinos with a clean slim fit that works for the office or weekends.",
     "price": 950,
-    "image": "https://loremflickr.com/600/800/pants,clothing?lock=23",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 25,
     "rating": 4.6
@@ -234,7 +234,7 @@
     "name": "Smoky Incense Eau de Parfum",
     "description": "A dark and mysterious blend of incense, patchouli and warm resins.",
     "price": 3400,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=24",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 36,
     "rating": 3.8
@@ -244,7 +244,7 @@
     "name": "Stainless Steel Watch",
     "description": "Minimal analog watch with a stainless steel case and water resistance up to 50m.",
     "price": 3200,
-    "image": "https://loremflickr.com/600/800/watch,wristwatch?lock=25",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 28,
     "rating": 4.7
@@ -254,7 +254,7 @@
     "name": "Slim Leather Card Holder",
     "description": "Compact card holder with four slots and a central pocket for folded notes.",
     "price": 380,
-    "image": "https://loremflickr.com/600/800/wallet,leather?lock=26",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 90,
     "rating": 4.2
@@ -264,7 +264,7 @@
     "name": "Woven Leather Espadrilles",
     "description": "Breathable woven espadrilles with a jute-wrapped sole for relaxed summer outfits.",
     "price": 700,
-    "image": "https://loremflickr.com/600/800/espadrilles,shoes?lock=27",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 48,
     "rating": 4.0
@@ -274,7 +274,7 @@
     "name": "Fresh Linen Eau de Toilette",
     "description": "A clean laundry-inspired scent of white cotton, lily and a hint of musk.",
     "price": 1600,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=28",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 78,
     "rating": 4.1
@@ -284,7 +284,7 @@
     "name": "Digital Sport Watch",
     "description": "Rugged digital watch with a backlight, stopwatch and water resistance for workouts.",
     "price": 1100,
-    "image": "https://loremflickr.com/600/800/watch,wristwatch?lock=29",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 54,
     "rating": 4.8
@@ -294,7 +294,7 @@
     "name": "Cushioned Training Sneakers",
     "description": "Breathable mesh trainers with responsive cushioning for gym and daily workouts.",
     "price": 1750,
-    "image": "https://loremflickr.com/600/800/sneakers,shoes?lock=30",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 15,
     "rating": 4.1
@@ -304,7 +304,7 @@
     "name": "Polarized Wayfarer Sunglasses",
     "description": "Bold wayfarer frames with polarized lenses that cut glare on bright days.",
     "price": 850,
-    "image": "https://loremflickr.com/600/800/sunglasses,fashion?lock=31",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 66,
     "rating": 3.8
@@ -314,7 +314,7 @@
     "name": "High-Top Sneakers",
     "description": "Retro high-top sneakers with a padded collar and a vulcanized rubber sole.",
     "price": 1450,
-    "image": "https://loremflickr.com/600/800/sneakers,shoes?lock=32",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 39,
     "rating": 4.0
@@ -324,7 +324,7 @@
     "name": "Pleated Wide Leg Trousers",
     "description": "Fluid wide leg trousers with front pleats and a high comfortable waist.",
     "price": 1200,
-    "image": "https://loremflickr.com/600/800/trousers,clothing?lock=33",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 45,
     "rating": 4.7
@@ -334,7 +334,7 @@
     "name": "Leather Work Boots",
     "description": "Rugged leather boots with a stitched sole and a padded collar for long days on your feet.",
     "price": 2500,
-    "image": "https://loremflickr.com/600/800/boots,shoes?lock=34",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 80,
     "rating": 4.8
@@ -344,7 +344,7 @@
     "name": "Penny Loafers",
     "description": "Polished leather penny loafers that dress up chinos and jeans alike.",
     "price": 1850,
-    "image": "https://loremflickr.com/600/800/loafers,shoes?lock=35",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 56,
     "rating": 4.1
@@ -354,7 +354,7 @@
     "name": "Aviator Sunglasses",
     "description": "Classic metal-frame aviators with UV400 protection lenses.",
     "price": 700,
-    "image": "https://loremflickr.com/600/800/sunglasses,fashion?lock=36",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 25,
     "rating": 4.4
@@ -364,7 +364,7 @@
     "name": "Cedar and Moss Cologne",
     "description": "An earthy woodland scent of cedar, moss and fresh bergamot.",
     "price": 2000,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=37",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 39,
     "rating": 4.0
@@ -374,7 +374,7 @@
     "name": "Vanilla Gourmand Eau de Parfum",
     "description": "A cozy blend of vanilla bean, caramel and tonka with a warm, sweet trail.",
     "price": 2600,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=38",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 24,
     "rating": 4.5
@@ -384,7 +384,7 @@
     "name": "Leather Key Organizer",
     "description": "Compact leather key holder that keeps your keys quiet, tidy and easy to reach.",
     "price": 220,
-    "image": "https://loremflickr.com/600/800/keys,keychain?lock=39",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 30,
     "rating": 4.4
@@ -394,7 +394,7 @@
     "name": "Cotton Bucket Hat",
     "description": "Soft cotton bucket hat with a wide brim for sun protection on warm days.",
     "price": 300,
-    "image": "https://loremflickr.com/600/800/hat,fashion?lock=40",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 46,
     "rating": 4.7
@@ -404,7 +404,7 @@
     "name": "Lined Leather Gloves",
     "description": "Genuine leather gloves with a soft fleece lining for cold weather.",
     "price": 700,
-    "image": "https://loremflickr.com/600/800/gloves,leather?lock=41",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 9,
     "rating": 4.5
@@ -414,7 +414,7 @@
     "name": "Reversible Leather Belt",
     "description": "Two-in-one belt in black and brown leather with a rotating metal buckle.",
     "price": 550,
-    "image": "https://loremflickr.com/600/800/belt,leather?lock=42",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 28,
     "rating": 4.4
@@ -424,7 +424,7 @@
     "name": "Suede Loafers",
     "description": "Soft suede loafers with a flexible sole, comfortable from morning to evening.",
     "price": 1900,
-    "image": "https://loremflickr.com/600/800/loafers,shoes?lock=43",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 66,
     "rating": 4.5
@@ -434,7 +434,7 @@
     "name": "Ribbed Turtleneck",
     "description": "Fitted ribbed turtleneck in a stretchy cotton blend, great as a layering piece.",
     "price": 650,
-    "image": "https://loremflickr.com/600/800/sweater,clothing?lock=44",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 76,
     "rating": 3.9
@@ -444,7 +444,7 @@
     "name": "Canvas Slip-On Shoes",
     "description": "Easy slip-on canvas shoes with a cushioned insole for casual everyday wear.",
     "price": 650,
-    "image": "https://loremflickr.com/600/800/shoes,footwear?lock=45",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 53,
     "rating": 4.0
@@ -454,7 +454,7 @@
     "name": "Performance Track Jacket",
     "description": "Lightweight zip-up track jacket with moisture-wicking fabric and side pockets.",
     "price": 1300,
-    "image": "https://loremflickr.com/600/800/jacket,clothing?lock=46",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 52,
     "rating": 4.5
@@ -464,7 +464,7 @@
     "name": "Saffron and Amber Extrait",
     "description": "A luxurious extrait of saffron, amber and oud, concentrated for lasting impact.",
     "price": 3800,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=47",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 24,
     "rating": 4.6
@@ -474,7 +474,7 @@
     "name": "Linen Button-Up Shirt",
     "description": "Lightweight breathable linen shirt with a relaxed fit, ideal for warm days.",
     "price": 850,
-    "image": "https://loremflickr.com/600/800/shirt,clothing?lock=48",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 89,
     "rating": 3.9
@@ -484,7 +484,7 @@
     "name": "Fresh Citrus Eau de Toilette",
     "description": "Bright notes of bergamot and lemon with a light musky base, great for daytime.",
     "price": 1800,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=49",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 38,
     "rating": 4.8
@@ -494,7 +494,7 @@
     "name": "Leather Watch Strap",
     "description": "Quick-release genuine leather watch strap with stainless steel buckle hardware.",
     "price": 350,
-    "image": "https://loremflickr.com/600/800/watch,wristwatch?lock=50",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 21,
     "rating": 4.8
@@ -504,7 +504,7 @@
     "name": "Relaxed Cotton T-Shirt",
     "description": "Everyday heavyweight cotton tee with a comfortable, slightly oversized shape.",
     "price": 350,
-    "image": "https://loremflickr.com/600/800/tshirt,clothing?lock=51",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 77,
     "rating": 3.9
@@ -514,7 +514,7 @@
     "name": "Leather Oxford Shoes",
     "description": "Handcrafted full-grain leather oxfords with a polished finish for formal occasions.",
     "price": 2200,
-    "image": "https://loremflickr.com/600/800/shoes,footwear?lock=52",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 18,
     "rating": 4.7
@@ -524,7 +524,7 @@
     "name": "Floral Musk Eau de Parfum",
     "description": "A soft floral heart of peony and jasmine resting on a smooth white musk base.",
     "price": 2400,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=53",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 76,
     "rating": 4.6
@@ -534,7 +534,7 @@
     "name": "Leather Derby Shoes",
     "description": "Smart leather derbies with an open lacing system and a flexible sole.",
     "price": 2000,
-    "image": "https://loremflickr.com/600/800/shoes,footwear?lock=54",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 42,
     "rating": 4.6
@@ -544,7 +544,7 @@
     "name": "Woody Amber Eau de Parfum",
     "description": "A warm blend of amber, cedarwood and vanilla with long-lasting depth.",
     "price": 2800,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=55",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 47,
     "rating": 4.1
@@ -554,7 +554,7 @@
     "name": "Minimal White Sneakers",
     "description": "Clean low-top sneakers in smooth leather that pair with almost any outfit.",
     "price": 1600,
-    "image": "https://loremflickr.com/600/800/sneakers,shoes?lock=56",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 20,
     "rating": 4.2
@@ -564,7 +564,7 @@
     "name": "Chunky Knit Cardigan",
     "description": "Thick knit cardigan with a button front, easy to layer over tees and shirts.",
     "price": 1250,
-    "image": "https://loremflickr.com/600/800/cardigan,clothing?lock=57",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 8,
     "rating": 4.6
@@ -574,7 +574,7 @@
     "name": "Oxford Cotton Shirt",
     "description": "Crisp oxford cotton shirt with a button-down collar for a smart casual look.",
     "price": 800,
-    "image": "https://loremflickr.com/600/800/shirt,clothing?lock=58",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 56,
     "rating": 3.9
@@ -584,7 +584,7 @@
     "name": "Polished Cufflinks Set",
     "description": "Stainless steel cufflinks with a polished finish, packed in a small gift box.",
     "price": 480,
-    "image": "https://loremflickr.com/600/800/cufflinks,suit?lock=59",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 84,
     "rating": 4.2
@@ -594,7 +594,7 @@
     "name": "Leather Driving Moccasins",
     "description": "Soft leather moccasins with rubber pebble soles, made for comfort behind the wheel.",
     "price": 1700,
-    "image": "https://loremflickr.com/600/800/loafers,shoes?lock=60",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 82,
     "rating": 4.2
@@ -604,7 +604,7 @@
     "name": "Printed Silk Pocket Square",
     "description": "Hand-rolled silk pocket square with a subtle print to finish a tailored look.",
     "price": 250,
-    "image": "https://loremflickr.com/600/800/suit,fashion?lock=61",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 27,
     "rating": 4.2
@@ -614,7 +614,7 @@
     "name": "Pullover Hooded Sweatshirt",
     "description": "Brushed fleece hoodie with a kangaroo pocket and an adjustable drawstring hood.",
     "price": 900,
-    "image": "https://loremflickr.com/600/800/hoodie,clothing?lock=62",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 19,
     "rating": 4.0
@@ -624,7 +624,7 @@
     "name": "Minimalist Silver Bracelet",
     "description": "Polished sterling silver bracelet with a simple chain design and a secure clasp.",
     "price": 1300,
-    "image": "https://loremflickr.com/600/800/bracelet,jewelry?lock=63",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 45,
     "rating": 4.3
@@ -634,7 +634,7 @@
     "name": "Classic Crewneck Sweater",
     "description": "Soft knit sweater with a timeless crewneck cut, easy to layer in cooler weather.",
     "price": 1100,
-    "image": "https://loremflickr.com/600/800/sweater,clothing?lock=64",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 43,
     "rating": 4.1
@@ -644,7 +644,7 @@
     "name": "Coconut Summer Mist",
     "description": "A light body mist of coconut water, pineapple and sea salt for the beach season.",
     "price": 900,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=65",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 55,
     "rating": 4.3
@@ -654,7 +654,7 @@
     "name": "Rose Garden Eau de Parfum",
     "description": "A romantic bouquet of Damask rose and raspberry with a gentle amber base.",
     "price": 2750,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=66",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 33,
     "rating": 4.6
@@ -664,7 +664,7 @@
     "name": "Merino Wool Scarf",
     "description": "Soft merino wool scarf with a classic check pattern and fringed ends.",
     "price": 600,
-    "image": "https://loremflickr.com/600/800/scarf,fashion?lock=67",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 67,
     "rating": 4.4
@@ -674,7 +674,7 @@
     "name": "Brushed Flannel Shirt",
     "description": "Warm checked flannel shirt with a soft brushed finish and chest pockets.",
     "price": 750,
-    "image": "https://loremflickr.com/600/800/shirt,clothing?lock=68",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 65,
     "rating": 4.4
@@ -684,7 +684,7 @@
     "name": "Aquatic Cologne",
     "description": "A clean, refreshing aquatic scent with marine notes and a soft woody finish.",
     "price": 1500,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=69",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 70,
     "rating": 4.7
@@ -694,7 +694,7 @@
     "name": "Jasmine Night Eau de Parfum",
     "description": "An enchanting night fragrance of white jasmine, orange blossom and soft musk.",
     "price": 2850,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=70",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 74,
     "rating": 4.3
@@ -704,7 +704,7 @@
     "name": "Pool Slide Sandals",
     "description": "Lightweight molded slides with a soft footbed, quick-drying and easy to clean.",
     "price": 300,
-    "image": "https://loremflickr.com/600/800/sandals,shoes?lock=71",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 89,
     "rating": 4.6
@@ -714,7 +714,7 @@
     "name": "Tailored Wool Blend Blazer",
     "description": "Single-breasted blazer in a wool blend with a structured shoulder and a clean finish.",
     "price": 2800,
-    "image": "https://loremflickr.com/600/800/blazer,clothing?lock=72",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 16,
     "rating": 3.9
@@ -724,7 +724,7 @@
     "name": "Amber Vanilla Body Mist",
     "description": "A soft, sweet body mist of amber and vanilla that is perfect for layering.",
     "price": 850,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=73",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 51,
     "rating": 3.8
@@ -734,7 +734,7 @@
     "name": "Corduroy Trousers",
     "description": "Soft wide-wale corduroy trousers with a tapered leg and a comfortable mid rise.",
     "price": 1100,
-    "image": "https://loremflickr.com/600/800/trousers,clothing?lock=74",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 13,
     "rating": 4.6
@@ -744,7 +744,7 @@
     "name": "Ribbed Knit Beanie",
     "description": "Stretchy ribbed beanie that keeps you warm and fits most head sizes.",
     "price": 250,
-    "image": "https://loremflickr.com/600/800/beanie,hat?lock=75",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 78,
     "rating": 4.7
@@ -754,7 +754,7 @@
     "name": "Crossbody Sling Bag",
     "description": "Compact sling bag with an adjustable strap and zip compartments for daily essentials.",
     "price": 950,
-    "image": "https://loremflickr.com/600/800/bag,fashion?lock=76",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 72,
     "rating": 4.5
@@ -764,7 +764,7 @@
     "name": "Oriental Oud Intense",
     "description": "A rich oud fragrance with hints of rose and spice for evenings and special occasions.",
     "price": 3500,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=77",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 18,
     "rating": 3.9
@@ -774,7 +774,7 @@
     "name": "Iris and Violet Eau de Parfum",
     "description": "A powdery floral of iris and violet leaf with a creamy cashmere finish.",
     "price": 2650,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=78",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 38,
     "rating": 4.1
@@ -784,7 +784,7 @@
     "name": "Peach Blossom Body Mist",
     "description": "A light and playful body mist of ripe peach, blossom and soft vanilla.",
     "price": 800,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=79",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 81,
     "rating": 4.4
@@ -794,7 +794,7 @@
     "name": "Linen Drawstring Shorts",
     "description": "Breathable linen shorts with an elastic drawstring waist for hot days.",
     "price": 480,
-    "image": "https://loremflickr.com/600/800/shorts,clothing?lock=80",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 35,
     "rating": 4.9
@@ -804,7 +804,7 @@
     "name": "Court Tennis Shoes",
     "description": "Low-profile court shoes with a durable rubber outsole and a clean minimalist upper.",
     "price": 1350,
-    "image": "https://loremflickr.com/600/800/tennis,shoes?lock=81",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 71,
     "rating": 4.2
@@ -814,7 +814,7 @@
     "name": "Leather Bifold Wallet",
     "description": "Slim genuine leather bifold wallet with card slots and a coin pocket.",
     "price": 650,
-    "image": "https://loremflickr.com/600/800/wallet,leather?lock=82",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 19,
     "rating": 4.6
@@ -824,7 +824,7 @@
     "name": "Striped Polo Shirt",
     "description": "Soft pique cotton polo with a subtle stripe and a two-button placket.",
     "price": 550,
-    "image": "https://loremflickr.com/600/800/polo,clothing?lock=83",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 79,
     "rating": 4.0
@@ -834,7 +834,7 @@
     "name": "Tobacco and Honey Eau de Parfum",
     "description": "A rich scent of sweet tobacco leaf and golden honey with a smooth woody base.",
     "price": 3100,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=84",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 16,
     "rating": 4.8
@@ -844,7 +844,7 @@
     "name": "Lavender Fougere Cologne",
     "description": "A classic barbershop-style scent of lavender, geranium and oakmoss.",
     "price": 1700,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=85",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 75,
     "rating": 4.8
@@ -854,7 +854,7 @@
     "name": "Spiced Leather Cologne",
     "description": "A bold mix of leather, black pepper and cardamom for confident evenings.",
     "price": 2900,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=86",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 62,
     "rating": 4.9
@@ -864,7 +864,7 @@
     "name": "Black Pepper Intense",
     "description": "A powerful fragrance of black pepper, vetiver and smoky incense.",
     "price": 3300,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=87",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 59,
     "rating": 4.9
@@ -874,7 +874,7 @@
     "name": "Wool Blend Overcoat",
     "description": "Tailored long overcoat in a warm wool blend, built for cold evenings.",
     "price": 3200,
-    "image": "https://loremflickr.com/600/800/coat,clothing?lock=88",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 72,
     "rating": 4.5
@@ -884,7 +884,7 @@
     "name": "Slim Silk Tie",
     "description": "Hand-finished silk tie with a subtle texture, perfect for formal events.",
     "price": 400,
-    "image": "https://loremflickr.com/600/800/necktie,suit?lock=89",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 22,
     "rating": 4.5
@@ -894,7 +894,7 @@
     "name": "Sea Salt and Driftwood Cologne",
     "description": "A breezy coastal scent of sea salt, sage and sun-bleached driftwood.",
     "price": 1750,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=90",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 70,
     "rating": 4.0
@@ -904,7 +904,7 @@
     "name": "Canvas Everyday Backpack",
     "description": "Durable canvas backpack with a padded laptop sleeve and multiple pockets.",
     "price": 1200,
-    "image": "https://loremflickr.com/600/800/backpack,bag?lock=91",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 62,
     "rating": 4.5
@@ -914,7 +914,7 @@
     "name": "Orthopedic Walking Shoes",
     "description": "Supportive walking shoes with arch support and a shock-absorbing sole.",
     "price": 1250,
-    "image": "https://loremflickr.com/600/800/shoes,footwear?lock=92",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 41,
     "rating": 4.0
@@ -924,7 +924,7 @@
     "name": "Leather Messenger Bag",
     "description": "Full-grain leather messenger bag with an adjustable strap and brass hardware.",
     "price": 2700,
-    "image": "https://loremflickr.com/600/800/bag,fashion?lock=93",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 57,
     "rating": 4.2
@@ -934,7 +934,7 @@
     "name": "Green Tea Eau de Cologne",
     "description": "A light and refreshing blend of green tea, mint and lemon for everyday wear.",
     "price": 1400,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=94",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 77,
     "rating": 4.6
@@ -944,7 +944,7 @@
     "name": "Mint and Basil Cologne",
     "description": "A crisp herbal cologne of fresh mint, green basil and citrus peel.",
     "price": 1300,
-    "image": "https://loremflickr.com/600/800/perfume,bottle?lock=95",
+    "image": "https://images.unsplash.com/photo-1668022943654-82c4fef46f83?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "perfumes",
     "stock": 50,
     "rating": 3.9
@@ -954,7 +954,7 @@
     "name": "Straight Leg Jeans",
     "description": "Dark indigo jeans with a straight cut and comfortable stretch denim.",
     "price": 1000,
-    "image": "https://loremflickr.com/600/800/jeans,clothing?lock=96",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 51,
     "rating": 4.1
@@ -964,7 +964,7 @@
     "name": "Jogger Sweatpants",
     "description": "Tapered joggers in brushed cotton with an elastic waistband and zip pockets.",
     "price": 700,
-    "image": "https://loremflickr.com/600/800/sweatpants,clothing?lock=97",
+    "image": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "apparel",
     "stock": 37,
     "rating": 4.7
@@ -974,7 +974,7 @@
     "name": "Classic Leather Belt",
     "description": "Durable leather belt with a brushed metal buckle, made for everyday wear.",
     "price": 450,
-    "image": "https://loremflickr.com/600/800/belt,leather?lock=98",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 22,
     "rating": 4.0
@@ -984,7 +984,7 @@
     "name": "Cotton Baseball Cap",
     "description": "Adjustable cotton cap with a curved brim and an embroidered front panel.",
     "price": 280,
-    "image": "https://loremflickr.com/600/800/cap,hat?lock=99",
+    "image": "https://images.unsplash.com/photo-1567473031052-6efd16864003?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "accessories",
     "stock": 76,
     "rating": 4.6
@@ -994,7 +994,7 @@
     "name": "Trail Hiking Boots",
     "description": "Water-resistant hiking boots with a grippy outsole and ankle support.",
     "price": 2600,
-    "image": "https://loremflickr.com/600/800/boots,shoes?lock=100",
+    "image": "https://images.unsplash.com/photo-1561909848-977d0617f275?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
     "category": "footwear",
     "stock": 90,
     "rating": 3.9
