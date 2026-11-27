@@ -4,7 +4,7 @@ import ProductCardSkeleton from "./ProductSkeletonCard";
 
 const ProductsShow = ({ isLoading, currentProducts }) => {
   return (
-    <div className="grid gap-4 grid-cols-4">
+    <div className="grid gap-4 grid-cols-4 max-lg:grid-cols-2 max-sm:grid-cols-1">
       {isLoading
         ? Array.from({ length: 12 }).map((_, index) => (
             <ProductCardSkeleton key={index} />

@@ -11,7 +11,7 @@ const ProductsHeader = ({ start, end, total }) => {
         <h1 className="text-[32px] font-semibold leading-10 tracking-tight">
           All Products
         </h1>
-        <div className="flex justify-between items-center mt-1 text-[14px] tracking-wide">
+        <div className="flex justify-between items-center mt-1 text-[14px] tracking-wide max-md:flex-col max-md:items-start max-md:mt-4 max-md:gap-4">
           <p>Explore The Style That Speaks Before You Do</p>
           {total === 0 ? (
             <span>No Products Found</span>
