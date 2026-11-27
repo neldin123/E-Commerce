@@ -64,6 +64,7 @@ const Products = () => {
           <ProductsFooter
             pageNumber={pageNumber}
             handleProductsPages={handleProductsPages}
+            numOfPages={numOfPages}
           />
         </div>
       </main>
